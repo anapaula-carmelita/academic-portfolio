@@ -18,7 +18,7 @@ Abaixo estão os principais estudos e documentações hospedados neste repositó
 
 ### 1. Inteligência Artificial na Educação: Engenharia de Prompts
 *   **Descrição:** Estudo aplicado sobre a utilização de Large Language Models (LLMs) para o planejamento educacional. O projeto explora técnicas de Engenharia de Prompts (contextualização, definição de limites e critérios) para gerar roteiros de ensino de lógica de programação (estruturas condicionais e laços no Scratch).
-*   **Acesse o projeto:** [Link para a pasta/arquivo]
+*   **Acesse o projeto:** [Engenharia de Prompts](https://github.com/anapaula-carmelita/academic-portfolio/tree/main/engenharia-de-prompts-educacao)
 <!--
      2. Teoria dos Jogos: O Teorema do Sacrifício
 *   **Descrição:** Modelagem conceitual voltada para a Teoria da Decisão. O projeto analisa matematicamente cenários clássicos, como o Dilema do Prisioneiro, avaliando as estratégias, os pesos das decisões e o equilíbrio entre os agentes envolvidos.
