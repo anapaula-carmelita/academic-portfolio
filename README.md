@@ -9,7 +9,7 @@ Este espaço documenta projetos que unem o rigor analítico à aplicação prát
 Meu trabalho e pesquisa estão fundamentados em três pilares principais:
 
 *   🧠 **Foco em IA e Didática:** Projetos de investigação aplicada que exploram a interseção entre a Inteligência Artificial, a literacia digital e o ensino da computação.
-*   📊 **Foco Analítico e Matemático:** Investigações conceituais abrangendo desde avaliações matemáticas na Teoria dos Jogos até estratégias avançadas de Engenharia de Prompts.
+<--*   📊 **Foco Analítico e Matemático:** Investigações conceituais abrangendo desde avaliações matemáticas na Teoria dos Jogos até estratégias avançadas de Engenharia de Prompts.-->
 *   💼 **Foco Corporativo:** Documentação de projetos focados em soluções práticas de IA, métodos quantitativos e no design de experiências instrucionais para o mercado de tecnologia.
 
 ## 📂 Projetos em Destaque
